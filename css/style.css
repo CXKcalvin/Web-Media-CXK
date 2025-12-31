@@ -38,6 +38,12 @@ body {
   letter-spacing: 2px;
 }
 
+.foto{
+  width: 200px;
+  border-radius: 100%;
+  margin-bottom: 20px;
+}
+
 /* Media container */
 .media {
   width: 100%;
@@ -53,6 +59,7 @@ body {
   gap: 25px;
   justify-items: center;
   text-align: center;
+  justify-content: center;
 }
 
 /* Kartu tiap media */
