@@ -108,6 +108,15 @@ body {
   font-size: 0.95rem;
 }
 
+/* Bagian Footer */
+footer {
+  margin-top: auto;
+  padding: 15px 0;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
 /* Animasi */
 @keyframes fadeInDown {
   0% {
