@@ -38,6 +38,15 @@ body {
   letter-spacing: 2px;
 }
 
+.head .description {
+    max-width: 720px;
+    margin: 20px auto 0;
+    line-height: 1.7;
+    font-size: 1.05rem;
+    color: #ddd;
+    padding: 0 15px;
+}
+
 .foto{
   width: 200px;
   border-radius: 100%;
@@ -89,7 +98,6 @@ body {
   height: 70px;
   border-radius: 15px;
   margin-bottom: 15px;
-  background: #111;
   object-fit: cover;
 }
 
@@ -110,11 +118,17 @@ body {
 
 /* Bagian Footer */
 footer {
-  margin-top: auto;
-  padding: 15px 0;
-  text-align: center;
-  font-size: 0.9rem;
-  color: #666;
+    margin-top: auto;
+    padding: 40px 20px 30px;
+    text-align: center;
+    font-size: 0.92rem;
+    color: #888;
+    width: 100%;
+}
+
+.footer-content p {
+    margin: 8px 0;
+    line-height: 1.5;
 }
 
 /* Animasi */
@@ -142,6 +156,10 @@ footer {
 
 /* Responsive tambahan */
 @media (max-width: 600px) {
+  .head .description {
+        font-size: 1rem;
+    }
+    
   .head h1 {
     font-size: 1.8rem;
   }
