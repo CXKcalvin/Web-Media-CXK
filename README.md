@@ -1,4 +1,4 @@
-## Infomation
+## Infomasi
 Silahkan dibuka saja, sebenarnya ini aman dan isi di dalammnya hanya media media sosial saya serta monetasi saya
 
 ## Cara Membuka Link Ini 
