@@ -4,4 +4,4 @@ Webite ini sebenarnya aman dan tidak berbahaya, silahkan dibuka saja, isi websit
 ## Cara Membuka Link Ini 
 1. Pertama klik link ini https://cxkcalvin.github.io/Web-Media-CXK/.
 2. setelah masuk silahkan klik detail.
-3. lalu klik teks yang paling seperti ini "situs tidak aman ini" 
+3. lalu klik teks yang paling bawah seperti ini "situs tidak aman ini" 
